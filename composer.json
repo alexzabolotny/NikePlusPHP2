@@ -1,0 +1,23 @@
+{
+    "name": "alexzabolotny/nike-plus-php2",
+    "description": "Nike Plus API client.",
+    "type": "library",
+    "keywords": ["nike", "api", "fuel", "gps"],
+    "homepage": "https://github.com/alexzabolotny/NikePlusPHP2",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex Zabolotny",
+            "email": "alexander.zabolotny@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.15",
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "NikePlusPHP2\\": "src/"
+        }
+    }
+}

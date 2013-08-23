@@ -1,0 +1,4 @@
+.idea/*
+/vendor/
+TODO
+misc/running_stats.php
