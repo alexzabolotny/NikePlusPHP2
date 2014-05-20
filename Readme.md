@@ -1,4 +1,6 @@
-# Nike+ PHP 2 #
+## Please note that since Nike have changed to OAUTH 2 and started to give away client ID only to partners, this project is now ceased until futher notice. ##
+
+# ~~Nike+ PHP 2~~ #
 
 Disclaimer: This library is not affiliated with Nike, Inc.
 
